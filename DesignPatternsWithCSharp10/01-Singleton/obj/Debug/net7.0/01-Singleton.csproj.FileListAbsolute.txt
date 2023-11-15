@@ -1,0 +1,15 @@
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\bin\Debug\net7.0\01-Singleton.exe
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\bin\Debug\net7.0\01-Singleton.deps.json
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\bin\Debug\net7.0\01-Singleton.runtimeconfig.json
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\bin\Debug\net7.0\01-Singleton.dll
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\bin\Debug\net7.0\01-Singleton.pdb
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.AssemblyInfoInputs.cache
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.AssemblyInfo.cs
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.csproj.CoreCompileInputs.cache
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.dll
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\refint\01-Singleton.dll
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.pdb
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.genruntimeconfig.cache
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\ref\01-Singleton.dll
+C:\Users\edwardmahama\Desktop\Learn-POC\Pluralsight\C#\C-Sharp-10-Design-Patterns\DesignPatternsWithCSharp10\01-Singleton\obj\Debug\net7.0\01-Singleton.sourcelink.json
